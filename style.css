@@ -1,0 +1,43 @@
+h1 {
+    font-size: 3.5rem !important;
+}
+
+h2 {
+    font-size: 2.5rem !important;
+}
+
+h3 {
+    font-size: 2rem !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+a:not(.sidebar a) {
+    transition: opacity 0.3s ease;
+}
+
+a:not(.sidebar a):hover {
+    opacity: 0.75;
+}
+
+.tag {
+    padding-bottom: 2px;
+    padding-top: 2px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 6px;
+    font-size: 13px;
+    background: #eee5e5
+}
+
+a:not(.sidebar a, .blog-item-link-wrapper)::after {
+    font-family: 'bootstrap-icons', monospace;
+    font-weight: bold;
+    margin-inline-start: 4px;
+    content: "\F470";
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+}

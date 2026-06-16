@@ -1,0 +1,27 @@
+.docdescription {Leonardo Riva's personal website}
+.doctype {plain}
+.doclang {English}
+.theme {paperwhite} layout:{latex}
+.htmloptions baseurl:{https://to.do}
+
+.dockeywords
+  - Leonardo Riva
+  - leoreeva
+  - data engineering
+
+.docauthors
+  - Leonardo Riva
+    - website: https://to.do
+
+.font heading:{GoogleFonts:Outfit} 
+
+.paragraphstyle lineheight:{1.6}
+
+.cssproperties
+  - background-color: #fefcf7
+  - main-color: #3f2816
+  - heading-color: #4f321c
+  - heading-font-size: 1.2em
+  - link-color: #bb4110
+
+.read {style.css}::css

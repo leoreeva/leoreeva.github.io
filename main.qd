@@ -1,0 +1,51 @@
+.docname {Leonardo Riva}
+.include {setup.qd}
+
+.docauthors
+  - Leonardo Riva
+
+
+# .docauthor
+
+Hi, I'm Leo, a **Data Engineer** based in Italy. I build reliable data pipelines and cloud-based infrastructure, with a focus on automation, maintainability, and clean delivery workflows.
+
+## Experience
+
+I have a little over 3 years of experience as a Data Engineer. I'm currently based in northern Italy and work fully remotely at [Agile Lab](https://www.agilelab.it/) as a consultant for an international client in the vehicle manufacturing industry. Previously, I worked for [Kineton](http://www.kineton.it) as a consultant for an Italian client in the telecommunications sector.
+
+Before that, I had the opportunity to take part in a research fellowship at the university where I studied, collaborating with the [Polis-Lombardia](https://www.polis.lombardia.it/wps/portal/site/polis) institute on a data science project focused on monitoring tweets for the analysis of events and diseases.
+
+My academic background includes a Bachelor's degree in Computer Science and a Master's degree in Data Science.
+
+For more: [Resume](/static/cv.pdf)
+
+
+## Projects
+
+I like working on side projects in my free time. Most of them never make it to the finish line, but these are the ones I'm proud of:
+
+- **City Stats** .br
+  .text {Bruin} classname:{tag} .text {Python} classname:{tag} .text {SQL} classname:{tag} .br
+  Compare cities and their neighbourhoods... .br
+  [Website](aaa) | [GitHub](https://github.com/leoreeva/city-stats)
+
+- **Tech Study Notes** .br
+  .text {Quarkdown} classname:{tag} .br
+  Collection of notes about tech stuff i like/have to learn .br
+  [Website](https://tech-study-notes.pages.dev/) | [GitHub](https://github.com/leoreeva/tech-study-notes)
+
+
+## Contacts
+
+.grid columns:{2} alignment:{start} gap:{1cm}
+    [E-mail](mailto:leonardoriva@proton.me)  
+    `leonardoriva@proton.me`
+
+    [Telegram](https://t.me/leoreeva)  
+    `leoreeva`
+
+    [LinkedIn](https://it.linkedin.com/in/leonardo-riva-562440135)  
+    `in/leonardo-riva-562440135`
+
+    [GitHub](https://github.com/leoreeva)  
+    `leoreeva`
