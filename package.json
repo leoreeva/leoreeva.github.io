@@ -1,0 +1,21 @@
+{
+  "name": "leoreeva.github.io",
+  "version": "1.0.0",
+  "description": "Developed with [Quarkdown](https://quarkdown.com/), hosted on GitHub Pages at [leoreeva.github.io](leoreeva.github.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoreeva/leoreeva.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leoreeva/leoreeva.github.io/issues"
+  },
+  "homepage": "https://github.com/leoreeva/leoreeva.github.io#readme"
+}

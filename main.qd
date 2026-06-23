@@ -26,8 +26,7 @@ I like working on side projects in my free time. Most of them never make it to t
 
 - **City Stats** .br
   .text {Bruin} classname:{tag} .text {Python} classname:{tag} .text {SQL} classname:{tag} .br
-  Compare cities and their neighbourhoods. Everything shown in the website comes from open data (mostly Open Street Map data). Work in progress, not available yet... .br
-  [Website](to_do) | [GitHub](https://github.com/leoreeva/city-stats)
+  Compare cities and their neighbourhoods. Everything shown in the website comes from open data (mostly Open Street Map data). <<< Work in progress >>> .br
 
 - **Tech Study Notes** .br
   .text {Quarkdown} classname:{tag} .text {CloudFlare Pages} classname:{tag} .br
